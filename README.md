@@ -1,11 +1,4 @@
-# 技术学习之路
+# java
 
-## Java开发
+java[基础](docs/Java/Java基础/01Java基础语法.md)
 
-[JavaSE基础](docs/Java/Java基础/README.md)
-
-JavaSE进阶
-
-JavaWeb
-
-热门框架
